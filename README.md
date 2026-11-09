@@ -2,6 +2,8 @@
 
 Aplikasi kasir rumah makan berbasis web — HTML + CSS + JavaScript saja, tanpa build step dan tanpa CDN (jalan offline, buka `index.html` langsung di browser).
 
+**Demo online:** https://ophari.github.io/kasirkita/
+
 ## Fitur
 
 - Daftar menu (9 menu: makanan, minuman, camilan) + filter kategori
